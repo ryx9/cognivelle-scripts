@@ -38,7 +38,7 @@ Secure permission for a 10-minute walkthrough/demo showing a tailored dental web
 **Salesperson:**
 > "Hi [Doctor / Practice Manager Name], this is [Rep] with [Company]. I know I'm calling out of the blue, but the reason for my call is we build clean, modern websites with online booking systems specifically for dental practices."
 
-### 2. Specific Observation
+### 2. Specific Observation (The Hook)
 **Salesperson:**
 > "I came across [Practice Name] and noticed you have great reviews in [City], but when patients find you online after hours, there isn't an easy way for them to see your treatment options and request an appointment without calling the office directly."
 
@@ -98,6 +98,15 @@ Secure permission for a 10-minute walkthrough/demo showing a tailored dental web
 ### If they say "I'm busy right now."
 **Salesperson:**
 > "I completely respect that—I'll keep it to ten seconds. We build modern websites with online appointment scheduling for dental practices so new patients can book without tying up your phone lines. Would Thursday morning or Friday afternoon work better for a brief 5-minute call?"
+
+### If the prospect is distracted or there is heavy background noise:
+**Salesperson:**
+> "It sounds like you have a lot going on in the background right now. I don't want to add to the chaos—should I reschedule the call to a later time, or do you have a brief 30 seconds?"
+
+### If the prospect is angry or annoyed by the call:
+**Salesperson:**
+> "I sincerely apologize for the interruption, I know unexpected calls are frustrating when you're running a practice. I will take your number off our list immediately. Have a great rest of your day."
+*(End the call gracefully without any pressure.)*
 
 ### If they ask "Where are you based?"
 **Salesperson:**

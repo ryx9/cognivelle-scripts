@@ -38,7 +38,7 @@ Secure permission for a 10-minute walkthrough/demo displaying an elegant spa web
 **Salesperson:**
 > "Hi [Owner / Manager Name], this is [Rep] with [Company]. I know I'm catching you in the middle of your day, but the reason I'm reaching out is we design elegant websites and digital booking systems for local spas and wellness studios."
 
-### 2. Specific Observation
+### 2. Specific Observation (The Hook)
 **Salesperson:**
 > "I came across [Spa Name] on [Google / Instagram] and loved your services, but I noticed when prospective clients find you, they currently have to [send an Instagram DM / call the front desk] to check availability and book a treatment."
 
@@ -98,6 +98,15 @@ Secure permission for a 10-minute walkthrough/demo displaying an elegant spa web
 ### If they say "I'm with a client / I'm busy right now."
 **Salesperson:**
 > "Understood, I won't hold you. In short: we help spas automate their appointment scheduling with an elegant website so clients can book 24/7 without phone tag. Could I give you a brief 5-minute call on [Day] at [Time]?"
+
+### If the prospect is distracted or there is heavy background noise:
+**Salesperson:**
+> "It sounds like you have a lot going on in the background right now. I don't want to add to the chaos—should I reschedule the call to a later time, or do you have a brief 30 seconds?"
+
+### If the prospect is angry or annoyed by the call:
+**Salesperson:**
+> "I sincerely apologize for the interruption, I know unexpected calls are frustrating when you're running a spa. I will take your number off our list immediately. Have a great rest of your day."
+*(End the call gracefully without any pressure.)*
 
 ### If they ask "Where is your team based?"
 **Salesperson:**
